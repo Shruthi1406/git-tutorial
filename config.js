@@ -1,2 +1,2 @@
 console.log('config');
-console.log('configger');
+console.log('configger 12');
